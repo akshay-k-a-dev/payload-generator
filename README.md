@@ -94,7 +94,3 @@ MIT License – For educational and research purposes only.
 
 ```
 
----
-
-Let me know if you'd like the `README.md` exported as a **PDF**, or want to auto-generate a GitHub repo structure for it too 🚀
-```
